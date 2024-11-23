@@ -24,7 +24,7 @@ We combine cutting-edge technologies with creative expertise to deliver robust, 
 
 ## 📫 Get in Touch  
   
-- **Email**: [koders.square@gmail.com]
-- **Upwork**: [https://www.upwork.com/freelancers/~0192e43fbc3b51a25d]
+- **Email**: (Mail)[koders.square@gmail.com]
+- **Upwork**: (Upwork)[https://www.upwork.com/freelancers/~0192e43fbc3b51a25d]
 
 Let’s collaborate to bring your ideas to life with innovation and expertise!  
