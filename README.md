@@ -7,13 +7,13 @@ At **KoderSquare**, we are a team of passionate and skilled developers dedicated
 We combine cutting-edge technologies with creative expertise to deliver robust, scalable, and efficient applications. Whether you're a startup or an established business, KoderSquare is your trusted partner for all things tech.  
 
 ### **Our Expertise**  
-- **Frontend Development**: HTML, CSS, Tailwind CSS, Bootstrap, React JS, Next JS, JavaScript, TypeScript  
-- **Backend Development**: Node.js, Express.js, Python, Fast API, MySQL, SQL  
-- **Mobile App Development**: Cross-platform solutions with React Native  
-- **State Management**: Redux Toolkit, Zustand  
-- **AI Development**: Smart applications powered by Python and Fast API  
-- **Telegram Bot Development**: Interactive bots built with Node.js and Express.js  
-- **Others**: SEO strategies and captivating graphic design  
+- **Frontend Development**: HTML, CSS, JavaScript, Typescript, React JS, Next JS, Tailwind CSS, Bootstrap, Framer Motion.
+- **Backend Development**: Node.js, Express.js, Python, Fast API, MySQL, SQL, MongoDB.  
+- **Mobile App Development**: Cross-platform solutions with React Native.  
+- **State Management**: Redux Toolkit, Zustand.  
+- **AI Development**: Smart applications powered by Python and Fast API.  
+- **Telegram Bot Development**: Interactive bots built with Node.js and Express.js.  
+- **Others**: SEO strategies and captivating graphic design.  
 
 ### **What We Offer**  
 - **Custom Web Applications**: Responsive and feature-rich websites tailored to your business needs  
